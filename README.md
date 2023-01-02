@@ -5,11 +5,16 @@ With the 2022 World Cup just around the corner, I wanted to apply my learnings f
 
 After a stakeholder meetings, a few requirements were identified:
 
-Ensuring PII (personally identifiable information) info is encrypted and shared to the right users
-Find a data source to extract world cup group standings (trickier than expected)
-Calculate each participants group stage
-Report pool standings
+  1. Ensuring PII (personally identifiable information) info is encrypted and shared to the right users
+
+  2. Find a data source to extract world cup group standings (trickier than expected)
+
+  3. Calculate each participants group stage
+  
+  4. Report pool standings
+
 Due to time/resource constraints, this notebook scope is limited to:
 
-Scraping Group Standings
-Calculating participant standings based solely on group stage results
+  1. Scraping Group Standings
+
+  2. Calculating participant standings based solely on group stage results
